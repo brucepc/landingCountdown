@@ -1,0 +1,112 @@
+<application>
+  <component name="SettingsState">
+    <option name="host" value="https://gitlab.com" />
+    <option name="token" value="GYNKMmcUDAYjLgM8fK5B" />
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/andrebernardes/fourbrands.git" />
+          <option name="name" value="fourbrands" />
+          <option name="namespace" value="andrebernardes" />
+          <option name="sshUrl" value="git@gitlab.com:andrebernardes/fourbrands.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/andrebernardes/Siscot.git" />
+          <option name="name" value="Siscot" />
+          <option name="namespace" value="andrebernardes" />
+          <option name="sshUrl" value="git@gitlab.com:andrebernardes/Siscot.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/andrebernardes/siterelatos.git" />
+          <option name="name" value="siterelatos" />
+          <option name="namespace" value="andrebernardes" />
+          <option name="sshUrl" value="git@gitlab.com:andrebernardes/siterelatos.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/brucepc/broaContabil.git" />
+          <option name="name" value="broaContabil" />
+          <option name="namespace" value="brucepc" />
+          <option name="sshUrl" value="git@gitlab.com:brucepc/broaContabil.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/brucepc/brucepc.com.br.git" />
+          <option name="name" value="brucepc.com.br" />
+          <option name="namespace" value="brucepc" />
+          <option name="sshUrl" value="git@gitlab.com:brucepc/brucepc.com.br.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/brucepc/ConPedidos.git" />
+          <option name="name" value="ConPedidos" />
+          <option name="namespace" value="brucepc" />
+          <option name="sshUrl" value="git@gitlab.com:brucepc/ConPedidos.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/brucepc/custom-calendar.git" />
+          <option name="name" value="custom-calendar" />
+          <option name="namespace" value="brucepc" />
+          <option name="sshUrl" value="git@gitlab.com:brucepc/custom-calendar.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/brucepc/cutsomEditorWP.git" />
+          <option name="name" value="cutsomEditorWP" />
+          <option name="namespace" value="brucepc" />
+          <option name="sshUrl" value="git@gitlab.com:brucepc/cutsomEditorWP.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/brucepc/flightland.git" />
+          <option name="name" value="flightland" />
+          <option name="namespace" value="brucepc" />
+          <option name="sshUrl" value="git@gitlab.com:brucepc/flightland.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/brucepc/mattias.git" />
+          <option name="name" value="mattias" />
+          <option name="namespace" value="brucepc" />
+          <option name="sshUrl" value="git@gitlab.com:brucepc/mattias.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/brucepc/owl-parent.git" />
+          <option name="name" value="owl-parent" />
+          <option name="namespace" value="brucepc" />
+          <option name="sshUrl" value="git@gitlab.com:brucepc/owl-parent.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/brucepc/pdfToMail.git" />
+          <option name="name" value="pdfToMail" />
+          <option name="namespace" value="brucepc" />
+          <option name="sshUrl" value="git@gitlab.com:brucepc/pdfToMail.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/brucepc/taskManager.git" />
+          <option name="name" value="taskManager" />
+          <option name="namespace" value="brucepc" />
+          <option name="sshUrl" value="git@gitlab.com:brucepc/taskManager.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/brucepc/urbem.git" />
+          <option name="name" value="urbem" />
+          <option name="namespace" value="brucepc" />
+          <option name="sshUrl" value="git@gitlab.com:brucepc/urbem.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/brucepc/UserBundle.git" />
+          <option name="name" value="userBundle" />
+          <option name="namespace" value="brucepc" />
+          <option name="sshUrl" value="git@gitlab.com:brucepc/UserBundle.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/friends-of-surrogacy/friends-of-surrogacy.git" />
+          <option name="name" value="friends-of-surrogacy" />
+          <option name="namespace" value="friends-of-surrogacy" />
+          <option name="sshUrl" value="git@gitlab.com:friends-of-surrogacy/friends-of-surrogacy.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/tambateam/caspem.git" />
+          <option name="name" value="caspem" />
+          <option name="namespace" value="tambateam" />
+          <option name="sshUrl" value="git@gitlab.com:tambateam/caspem.git" />
+        </ProjectDto>
+      </list>
+    </option>
+  </component>
+</application>
